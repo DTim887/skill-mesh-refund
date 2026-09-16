@@ -1,0 +1,16 @@
+{
+  "id": "refund_exchange",
+  "name": "CommerceFoundation_Refund&Exchange",
+  "description": "Commerce Foundation Group Refund&Exchange 知识库",
+  "version": "1.0.0",
+  "maintainer": "Unicorn",
+  "tags": ["commerce foundation", "refund", "exchange"],
+  "usage_hint": "当用户询问退款/改期相关的业务问题时使用",
+  "knowledge_source": [
+    {
+      "type": "confluence",
+      "url": "https://disneyexperiences.atlassian.net/wiki/spaces/STDTO/pages/350919221",
+      "summary": "Refund&Exchange Domain 领域介绍"
+    }
+  ]
+}
